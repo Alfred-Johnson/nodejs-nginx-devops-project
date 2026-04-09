@@ -1,0 +1,1 @@
+echo url="https://www.duckdns.org/update?domains=alfred-devops&token=YOUR_TOKEN&ip=" | curl -k -o duck.log -K -
